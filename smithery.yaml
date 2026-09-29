@@ -1,0 +1,6 @@
+name: genpark-hierarchical-tiered-memory-manager-skill
+version: 1.0.0
+description: MemGPT-inspired tiered memory system with working memory, archival storage, and automated context paging
+command: python
+args:
+  - mcp_server.py
