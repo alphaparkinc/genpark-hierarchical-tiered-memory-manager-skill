@@ -1,0 +1,20 @@
+{
+  "name": "genpark-hierarchical-tiered-memory-manager-skill",
+  "version": "1.0.0",
+  "description": "MemGPT-inspired tiered memory system with working memory, archival storage, and automated context paging",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "tiered-memory",
+    "memgpt",
+    "working-memory",
+    "archival-storage",
+    "memory-paging",
+    "python-standard-library",
+    "agent-skills",
+    "agent-memory",
+    "context-management",
+    "cognitive-architecture"
+  ]
+}
